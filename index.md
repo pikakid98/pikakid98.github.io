@@ -1,4 +1,5 @@
 ## Pikakid98's Trash Repository
+
 Project Name | Project Status | Current Version
 ------------ | ------------- | ------------
 [PHE Adventures](https://pikakid98.github.io/phe-adventures/) | Current Status: Abandoned | v0.0.1
