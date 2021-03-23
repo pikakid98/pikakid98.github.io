@@ -1,5 +1,5 @@
 ## Pikakid98's Trash Repository
 
-[PHE Adventures](https://github.com/pikakid98/phe-adventures) | Current Status: Abandoned
+PHE Adventures | Current Status: Abandoned
 ------------ | -------------
-[Markiplier's Mansion {DEMO}](https://github.com/pikakid98/markipliers-mansion-demo) | Current Status: Abandoned
+[Markiplier's Mansion {DEMO}](https://pikakid98.github.io/markipliers-mansion-demo/) | Current Status: Abandoned
