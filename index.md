@@ -1,5 +1,5 @@
 <head>
-    <link rel="shortcut icon" type="image/png" href="pika-dl.png">
+ <link rel="shortcut icon" type="image/x-icon" href="pika-dl.png?">
   </head>
   
 ## Pikakid98's Trash Repository
