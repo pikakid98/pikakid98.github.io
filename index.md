@@ -1,5 +1,5 @@
  <head>
- <link rel="shortcut icon" type="image/x-icon" href="main/favicon.ico?">
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
  </head>
 
 Project Name | Project Status | Current Version
