@@ -1,8 +1,6 @@
 <head>
  <link rel="shortcut icon" type="image/png" href="pika-dl.png?">
   </head>
-  
-## Pikakid98's Trash Repository
 
 Project Name | Project Status | Current Version
 ------------ | ------------- | ------------
