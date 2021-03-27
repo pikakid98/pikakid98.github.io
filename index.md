@@ -1,3 +1,8 @@
+<head>
+  <link rel="shortcut icon" type="image/png" 
+      href="{{ "favicon.png"  | absolute_url }}">
+</head>
+
 Project Name | Project Status | Current Version
 ------------ | ------------- | ------------
 [PHE Adventures](https://pikakid98.github.io/phe-adventures/) | Abandoned | v0.0.1
