@@ -1,2 +1,10 @@
 theme: jekyll-theme-cayman
 title: "Pikakid98's Trash Repository"
+
+<nav>
+  <ul>
+     <li><a href="index">Repositories</a></li>
+     <li><a href="help">Download Help</a></li>
+     <li><a href="mirror">Mirror Links</a></li>
+  </ul>
+</nav>
