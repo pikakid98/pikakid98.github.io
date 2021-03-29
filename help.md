@@ -99,3 +99,9 @@ Someone stole your code and is distributing/selling it full of malware
 If that's the case then if you can report it then do just that. I have zero tolerance for
 code thieves or malware distributors
 ```
+```
+Why do some files show "Source Code (Unavailable)"?
+----------------------------------------------------------------------------------------------
+That means I lost the source code and have only uploaded them for public download. I'll
+try to keep the source code in the future though
+```
