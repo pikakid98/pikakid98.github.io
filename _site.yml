@@ -1,11 +1,7 @@
-navbar:
-      left:
-       - text: "Repositories"
-         href: index.md
-      menu: 
-        - text: "Mirror Links"
-          href: mirror.md
-      menu: 
-        - text: "Download Help"
-          href: help.md
-output_dir: "."
+<nav>
+  <ul>
+    <li><a href="index.md">Repositories</a></li>
+    <li><a href="help.md">Download Help</a></li>
+    <li><a href="mirror.md">Mirror Links</a></li>
+  </ul>
+</nav>
