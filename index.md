@@ -9,4 +9,4 @@ Project Name | Project Status | Current Version
 [Cave Of The Dead Remastered](https://pikakid98.github.io/cave-of-the-dead-remastered) | Abandoned | v0.1.1
 [Pika's Greenscreen Repo](https://pikakid98.github.io/pikas-greenscreen-repo) | ??? | ???
 
-### [Download Help](https://pikakid98.github.io/help) | [Mirror Sites](https://pikakid98.github.io/mirror)
+### [Download Help](https://pikakid98.github.io/help) | [Mirror Sites](https://pikakid98.github.io/mirror) | [Website](https://pikakid98.wordpress.com/)
