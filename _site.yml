@@ -1,0 +1,11 @@
+navbar:
+      menu: 
+       - text: "Repositories"
+         href: index.md
+      menu: 
+        - text: "Mirror Links"
+          href: mirror.md
+      menu: 
+        - text: "Download Help"
+          href: help.md
+output_dir: "."
