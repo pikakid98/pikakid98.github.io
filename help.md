@@ -26,9 +26,9 @@ download it.
 ```
 Google Chrome is blocking the files and saying that they are DANGEROUS!!
 ----------------------------------------------------------------------------------------------
-A: All of the downloads listed on my website are completely safe and will NOT harm your computer. I can promise you that these are
-false positives. If you don't believe in false positives and think I'm serving malware then I'm sorry
-but none of the files on this website are malicious.
+A: All of the downloads listed on my website are completely safe and will NOT harm your computer.
+I can promise you that these are false positives. If you don't believe in false positives and
+think I'm serving malware then I'm sorry but none of the files on this website are malicious.
 ```
 ```
 A file I downloaded was picked up by my antivirus
@@ -72,8 +72,8 @@ That's strange. It should work. It's possible that I accidentally put the wrong 
 ```
 Can I contribute code to your source code?
 ----------------------------------------------------------------------------------------------
-Sure you can. Just please don't try to sell it or claim it as your own. You MUST give accurate credit.
-If you don't want to give credit then don't fork my code
+Sure you can. Just please don't try to sell it or claim it as your own. You MUST give accurate
+credit. If you don't want to give credit then don't fork my code
 ```
 ```
 I don't use Google Chrome. Can I still download your files
