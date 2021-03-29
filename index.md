@@ -1,14 +1,3 @@
-<head>
-  <nav>
-   <ul>
-      <li><a href="index.md">Repositories</a></li>
-      <li><a href="help.md">Download Help</a></li>
-     <li><a href="mirror.md">Mirror Links</a></li>
-    </ul>
-  </nav>
-</head>
-
-
 Project Name | Project Status | Current Version
 ------------ | ------------- | ------------
 [PHE Adventures](https://pikakid98.github.io/phe-adventures/) | Abandoned | v0.0.1
