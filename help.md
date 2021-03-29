@@ -86,3 +86,16 @@ Wait a minute? did you just delete all of the other downloads? I had those bookm
 ----------------------------------------------------------------------------------------------
 I didn't remove any files at all
 ```
+```
+Can I port your code to [X]
+----------------------------------------------------------------------------------------------
+Yes. Please do. But if you're interested in having your port shown off then contact me at
+pikakid98studiosbusiness@gmail.com
+and I'll link your port on the GitHub page
+```
+```
+Someone stole your code and is distributing/selling it full of malware
+----------------------------------------------------------------------------------------------
+If that's the case then if you can report it then do just that. I have zero tolerance for
+code thieves or malware distributors
+```
