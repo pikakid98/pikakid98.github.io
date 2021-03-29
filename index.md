@@ -1,5 +1,3 @@
-### [Download Help](https://pikakid98.github.io/help) | [Mirror Sites](https://pikakid98.github.io/mirror)
-
 Project Name | Project Status | Current Version
 ------------ | ------------- | ------------
 [PHE Adventures](https://pikakid98.github.io/phe-adventures/) | Abandoned | v0.0.1
@@ -10,3 +8,5 @@ Project Name | Project Status | Current Version
 [The Legend Of Zelda: Sword Of Destiny](https://pikakid98.github.io/the-legend-of-zelda-sword-of-destiny) | Complete | v1.0
 [Cave Of The Dead Remastered](https://pikakid98.github.io/cave-of-the-dead-remastered) | Abandoned | v0.1.1
 [Pika's Greenscreen Repo](https://pikakid98.github.io/pikas-greenscreen-repo) | ??? | ???
+
+### [Download Help](https://pikakid98.github.io/help) | [Mirror Sites](https://pikakid98.github.io/mirror)
