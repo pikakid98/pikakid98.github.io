@@ -1,3 +1,5 @@
+### [Download Help](https://pikakid98.github.io/help) | [Mirror Sites](https://pikakid98.github.io/mirror)
+
 Project Name | Project Status | Current Version
 ------------ | ------------- | ------------
 [PHE Adventures](https://pikakid98.github.io/phe-adventures/) | Abandoned | v0.0.1
