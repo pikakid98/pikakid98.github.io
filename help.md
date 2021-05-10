@@ -26,7 +26,7 @@ download it.
 ```
 Google Chrome is blocking the files and saying that they are DANGEROUS!!
 ----------------------------------------------------------------------------------------------
-A: All of the downloads listed on my website are completely safe and will NOT harm your computer.
+All of the downloads listed on my website are completely safe and will NOT harm your computer.
 I can promise you that these are false positives. If you don't believe in false positives and
 think I'm serving malware then I'm sorry but none of the files on this website are malicious.
 ```
