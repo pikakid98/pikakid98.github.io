@@ -84,7 +84,7 @@ question that has "Google Chrome" in it will apply to every browser
 ```
 Wait a minute? did you just delete all of the other downloads? I had those bookmarked -_-
 ----------------------------------------------------------------------------------------------
-I didn't remove any files at all
+I didn't remove any files at all. They're all available at https://pikakid98.github.io/mirror
 ```
 ```
 Can I port your code to [X]
