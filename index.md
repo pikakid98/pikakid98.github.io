@@ -1,7 +1,3 @@
-<head>
-<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
-</head>
-
 <h3>Games</h3>
 
 Project Name | Project Status | Current Version
