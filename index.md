@@ -16,7 +16,6 @@ Project Name | Project Status | Current Version
 Project Name | Project Status | Current Version
 ------------ | ------------- | ------------
 [Cat Warfare Skin Creator](https://pikakid98.github.io/cat-warfare-skin-creator) | Likely Abandoned | v1.0 Beta
-[Pika's Greenscreen Repo](https://pikakid98.github.io/pikas-greenscreen-repo) | ??? | ???
 [Simple M3U Maker](https://pikakid98.github.io/simple-m3u-maker) | In Progress | v2.1
 
 <h1></h1>
