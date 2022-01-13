@@ -1,4 +1,4 @@
-[Hey! I have a launcher now](https://pikakid98.github.io/pikakid98-launcher) (v0.2)
+[Hey! I have a launcher now](https://pikakid98.github.io/pikakid98-launcher)
 
 <h3>Games</h3>
 
