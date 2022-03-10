@@ -7,7 +7,7 @@ Project Name | Project Status | Current Version
 [PHE Adventures](https://pikakid98.github.io/phe-adventures) | Abandoned | v0.0.1
 [Markiplier's Mansion {DEMO}](https://pikakid98.github.io/markipliers-mansion-demo) | Abandoned | v0.1
 [Cat Warfare Pre-Alpha Archive](https://pikakid98.github.io/cat-warfare-pre-alpha-archive) | Ongoing [Here](https://store.steampowered.com/app/923370) | [On Steam](https://store.steampowered.com/app/923370)
-[Cave Of The Dead](https://pikakid98.github.io/cave-of-the-dead) | Complete | v1.3
+[Cave Of The Dead](https://pikakid98.github.io/cave-of-the-dead) | Complete | v1.3.0.1
 [The Legend Of Zelda: Sword Of Destiny](https://pikakid98.github.io/the-legend-of-zelda-sword-of-destiny) | Complete | v1.1
 [Cave Of The Dead Remastered](https://pikakid98.github.io/cave-of-the-dead-remastered) | Abandoned | v0.1.1
 
