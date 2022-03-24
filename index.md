@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 [Hey! I have a launcher now](https://pikakid98.github.io/pikakid98-launcher)
 
 <h3>Games</h3>
