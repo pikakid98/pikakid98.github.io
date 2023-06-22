@@ -6,7 +6,6 @@
 ### [Youtuber Website](https://pikakid98.github.io/yt-site)
 ### [Github Website](https://git-pikakid98.github.io/)
 ### [Freeware Games](https://pikakid98.github.io/games)
-### [My Blog](https://pikakid98.github.io/blog)
 ### [The Pikakid98 Graveyard](https://pikakid98.github.io/archive)
 
 
