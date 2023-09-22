@@ -12,6 +12,6 @@
 
 [Discord Server](https://pikakid98.github.io/discord)
 \
-[Donations](https://pikakid98.github.io/donate)
+[Support Me (With money)](https://pikakid98.github.io/support-me)
 \
 [Twitter](https://pikakid98.github.io/twitter)
