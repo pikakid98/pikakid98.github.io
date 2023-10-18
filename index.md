@@ -3,7 +3,7 @@
 ### Welcome to the main hub site of Pikakid98
 
 # Active Projects
-### [Youtuber Website](https://pikakid98.github.io/yt-site)
+### [Youtube Channels](https://pikakid98.github.io/yt)
 ### [Github Website](https://git-pikakid98.github.io/)
 ### [Freeware Games](https://pikakid98.github.io/games)
 ### [The Pikakid98 Graveyard](https://pikakid98.github.io/archive)
