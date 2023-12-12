@@ -6,9 +6,6 @@
 ### [Youtube Channels](https://pikakid98.github.io/yt)
 ### [Github Website](https://git-pikakid98.github.io/)
 ### [Freeware Games](https://pikakid98.github.io/games)
-### [The Pikakid98 Graveyard](https://pikakid98.github.io/archive)
-
-
 
 [Discord Server](https://pikakid98.github.io/discord)
 \
