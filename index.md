@@ -12,3 +12,13 @@
 [Support Me (With money)](https://pikakid98.github.io/support-me)
 \
 [Twitter](https://pikakid98.github.io/twitter)
+
+# Inactive/Dead/Archived Projects
+\
+[Weebly archive](https://pikakid98.github.io/weebly-archive)
+\
+[Tribute to my dad](https://pikakid98.wixsite.com/tribute-to-dad)
+\
+[Nostalgia Overdrive](https://nostalgiaoverdriveofficial.wordpress.com)
+\
+[Battle For The Server](https://battlefortheserver.wordpress.com)
