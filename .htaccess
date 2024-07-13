@@ -1,3 +1,9 @@
+<IfModule mod_rewrite.c>
+
+# Enable Rewrite Engine
 RewriteEngine On
-ErrorDocument 404 /index.html
+RewriteBase /
+# Redirect Urls (Permanent)
 RewriteRule ^x$  https://x.com/Pikakid98FromYT [R=301,L]
+
+</IfModule>
