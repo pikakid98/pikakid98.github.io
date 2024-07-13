@@ -1,3 +1,3 @@
 RewriteEngine On
 ErrorDocument 404 /index.html
-RewriteRule /x https://x.com/Pikakid98FromYT
+RewriteRule ^x$  https://x.com/Pikakid98FromYT [R=301,L]
