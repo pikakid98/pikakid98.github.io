@@ -2,4 +2,4 @@
 permalink: /x.html
 ---
 
-<meta http-equiv="Refresh" content="0; url='https://x.com/Pikakid98FromYT'" />
+<meta http-equiv="Refresh" content="0; url='https://pikakid98.github.io/404'" />
